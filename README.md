@@ -6,8 +6,12 @@ Lab1
 
 Unreal version 5.0.3
 
+---
+
 Video of Features:
 [Click here for the video demonstrating the features described below for Lab1](https://drive.google.com/file/d/1bCY3gZXuO40IvsDihKn7noZVuyLQvtGY/view?usp=sharing)
+
+---
 
 **Features in the Project:**
 
