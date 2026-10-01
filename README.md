@@ -2,7 +2,7 @@ Daniel Cohen
 
 CS310H
 
-Lab1
+Lab 1
 
 Unreal version 5.0.3
 
