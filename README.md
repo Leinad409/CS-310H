@@ -9,7 +9,7 @@ Unreal version 5.0.3
 ---
 
 Video of Features:
-[Click here for the video demonstrating the features described below for Lab1](https://drive.google.com/file/d/1dU3-BgLZczV_CiX3TlqgQsqbKpIoaLnZ/view?usp=sharing)
+[Click here for the video demonstrating the features described below for Lab1](https://www.youtube.com/watch?v=qk19vGlqKwA)
 
 ---
 
