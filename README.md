@@ -22,5 +22,5 @@ Video of Features:
 - Created pickups that print a string of the current total of pickup objects to track "points" in a game.
   
 - There is a light switch on the floor right before you enter the dark hallway on the left when you enter the building.
-  - light switch turns on and off when the player passes through the object.
+  - Light switch turns on and off when the player passes through the object.
     
